@@ -6,10 +6,10 @@ Colocando el dia, la hora y el sintoma que tenga.
 Lo aprendido: 
 
   Components.
-  React hook - useState, useEffect.
-  localStorage.
-  Documentacion con propTypes.
-  Deploy netlify.
+  React hook - useState, useEffect,
+  localStorage, 
+  Documentacion con propTypes, 
+  Deploy netlify. 
 
 Horas de desarrollo: 6 hrs
 
